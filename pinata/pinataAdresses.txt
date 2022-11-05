@@ -1,0 +1,2 @@
+IMAGE_URL = https://gateway.pinata.cloud/ipfs/QmYx6V43sF6Wmj2NBRw155KbNdwTBjrMYqePFNC9x2oDbQ
+JSON_URL = https://gateway.pinata.cloud/ipfs/QmPnvBrEb4dS7JRecgvzfSNidQxq6yEHKx3HkwvrWCasKw 
